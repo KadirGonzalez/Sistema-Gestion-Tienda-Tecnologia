@@ -1,4 +1,4 @@
-package tienda.modelo;
+package tienda;
 
 import java.time.LocalDate;
 import java.util.List;
@@ -16,3 +16,4 @@ public class Reporte {
         return null;
     }
 }
+

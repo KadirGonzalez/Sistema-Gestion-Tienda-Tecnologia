@@ -1,4 +1,4 @@
-package tienda.modelo;
+package tienda;
 
 import java.time.LocalDate;
 
@@ -16,3 +16,4 @@ public class Factura {
         return total;
     }
 }
+

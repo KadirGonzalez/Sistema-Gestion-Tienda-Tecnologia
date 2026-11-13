@@ -1,4 +1,4 @@
-package tienda.modelo;
+package tienda;
 
 import java.time.LocalDate;
 import java.util.Map;
@@ -22,3 +22,4 @@ public class Venta {
     public void registrarPago() {
     }
 }
+

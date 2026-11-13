@@ -1,4 +1,4 @@
-package tienda.modelo;
+package tienda;
 
 public class Producto {
 
@@ -21,3 +21,4 @@ public class Producto {
         return categoria;
     }
 }
+

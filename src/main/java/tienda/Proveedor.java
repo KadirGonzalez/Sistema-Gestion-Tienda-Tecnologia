@@ -1,4 +1,4 @@
-package tienda.modelo;
+package tienda;
 
 import java.util.List;
 
@@ -17,3 +17,4 @@ public class Proveedor {
         return null;
     }
 }
+

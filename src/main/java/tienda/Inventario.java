@@ -1,4 +1,4 @@
-package tienda.modelo;
+package tienda;
 
 import java.util.Map;
 
@@ -17,3 +17,4 @@ public class Inventario {
         return 0;
     }
 }
+

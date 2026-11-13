@@ -1,4 +1,4 @@
-package tienda.modelo;
+package tienda;
 
 public class Empleado {
 
@@ -14,3 +14,4 @@ public class Empleado {
     public void atenderCliente(Cliente c) {
     }
 }
+

@@ -1,4 +1,4 @@
-package tienda.modelo;
+package tienda;
 
 import java.time.LocalDate;
 
@@ -14,3 +14,4 @@ public class Devolucion {
     public void procesar(Inventario inventario) {
     }
 }
+

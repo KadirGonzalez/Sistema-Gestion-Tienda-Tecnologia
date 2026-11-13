@@ -1,4 +1,4 @@
-package tienda.modelo;
+package tienda;
 
 public class Usuario {
 
@@ -16,3 +16,4 @@ public class Usuario {
         return true;
     }
 }
+
